@@ -1,3 +1,4 @@
 com\qa\mathoperations\SubtractorTest.class
 com\qa\mathoperations\AdderTest.class
+com\qa\mathoperations\DividerTest.class
 com\qa\mathoperations\MultiplierTest.class
