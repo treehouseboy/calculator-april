@@ -1,8 +1,8 @@
 package com.qa.mathoperations;
 
-public class Divider {
+public class Divider extends Calculation{
 
-	public int divide(int num1, int num2) {
+	public int doCalculation(int num1, int num2) {
 		return num1/num2;
 	}
 

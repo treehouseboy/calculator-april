@@ -1,8 +1,9 @@
 package com.qa.mathoperations;
 
-public class Adder {
+public class Adder extends Calculation{
+	
 
-	public int add(int num1, int num2) {
+	public int doCalculation(int num1, int num2) {
 		return num1 +num2;
 	}
 		
